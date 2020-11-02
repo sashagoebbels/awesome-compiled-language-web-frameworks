@@ -11,7 +11,7 @@ A list of frameworks to build web applications with compiled languages.
 
 - [Lithium](https://matt-42.github.io/lithium/)  
   Build high performance C++ HTTP servers without being a C++ expert.
-- [Proxygen](https://github.com/facebook/proxygen  
+- [Proxygen](https://github.com/facebook/proxygen)  
   Facebook's C++ HTTP Libraries
 
 ## Fortran
